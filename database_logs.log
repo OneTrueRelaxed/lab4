@@ -1,0 +1,7 @@
+2021-05-20 18:55:33,100 INFO __main__::do_the_lab: Start time 2021-05-20 18:55:33.100317
+2021-05-20 18:55:59,492 INFO __main__::populate_collection: Whoopsies, looks like the database is down (◕︵◕)
+2021-05-20 18:56:35,884 INFO __main__::do_the_lab: Start time 2021-05-20 18:56:35.884376
+2021-05-20 19:03:28,829 INFO __main__::populate_collection: Whoopsies, looks like the database is down (◕︵◕)
+2021-05-20 19:03:40,525 INFO __main__::do_the_lab: Start time 2021-05-20 19:03:40.525089
+2021-05-20 19:08:52,114 INFO __main__::do_the_lab: End time 2021-05-20 19:08:52.114369
+2021-05-20 19:08:52,114 INFO __main__::do_the_lab: Inserting executing time 0:05:11.589280
